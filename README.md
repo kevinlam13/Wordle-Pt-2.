@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Wordle Part2*
 
 Submitted by: **Kevin Lam**
 
@@ -37,6 +37,7 @@ The following **additional** features are implemented:
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 
 ## License
 
